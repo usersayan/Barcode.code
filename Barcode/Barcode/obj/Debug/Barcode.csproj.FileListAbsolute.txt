@@ -1,0 +1,25 @@
+E:\SAYAN DHARA\Barcode\Barcode\bin\Debug\Barcode.exe.config
+E:\SAYAN DHARA\Barcode\Barcode\bin\Debug\Barcode.exe
+E:\SAYAN DHARA\Barcode\Barcode\bin\Debug\Barcode.pdb
+E:\SAYAN DHARA\Barcode\Barcode\bin\Debug\BarcodeLib.Barcode.CrystalReports.dll
+E:\SAYAN DHARA\Barcode\Barcode\bin\Debug\BarcodeLib.Barcode.WinForms.dll
+E:\SAYAN DHARA\Barcode\Barcode\bin\Debug\BarcodeLib.dll
+E:\SAYAN DHARA\Barcode\Barcode\bin\Debug\KeepAutomation.Barcode.Crystal.dll
+E:\SAYAN DHARA\Barcode\Barcode\obj\Debug\Barcode.Barcode.resources
+E:\SAYAN DHARA\Barcode\Barcode\obj\Debug\Barcode.Print_Barcode.resources
+E:\SAYAN DHARA\Barcode\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+E:\SAYAN DHARA\Barcode\Barcode\obj\Debug\Barcode.stock.resources
+E:\SAYAN DHARA\Barcode\Barcode\obj\Debug\Barcode.csproj.GenerateResource.Cache
+E:\SAYAN DHARA\Barcode\Barcode\obj\Debug\Barcode.exe
+E:\SAYAN DHARA\Barcode\Barcode\obj\Debug\Barcode.pdb
+G:\PORN Video [XVideos.Com]\Barcode\Barcode\bin\Debug\Barcode.exe.config
+G:\PORN Video [XVideos.Com]\Barcode\Barcode\obj\Debug\Barcode.exe
+G:\PORN Video [XVideos.Com]\Barcode\Barcode\obj\Debug\Barcode.pdb
+G:\PORN Video [XVideos.Com]\Barcode\Barcode\bin\Debug\Barcode.exe
+G:\PORN Video [XVideos.Com]\Barcode\Barcode\bin\Debug\Barcode.pdb
+G:\PORN Video [XVideos.Com]\Barcode\Barcode\obj\Debug\Barcode.csprojResolveAssemblyReference.cache
+G:\PORN Video [XVideos.Com]\Barcode\Barcode\obj\Debug\Barcode.Barcode.resources
+G:\PORN Video [XVideos.Com]\Barcode\Barcode\obj\Debug\Barcode.Print_Barcode.resources
+G:\PORN Video [XVideos.Com]\Barcode\Barcode\obj\Debug\Barcode.Properties.Resources.resources
+G:\PORN Video [XVideos.Com]\Barcode\Barcode\obj\Debug\Barcode.stock.resources
+G:\PORN Video [XVideos.Com]\Barcode\Barcode\obj\Debug\Barcode.csproj.GenerateResource.Cache
